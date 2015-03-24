@@ -5,12 +5,37 @@
     font-family: 'Walter Turncoat', cursive;
     text-align: center;
 }
+.recipetitle {
+    background-color: #A7DBD8;
+    color: #FA6900;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    border: 10px double;
+    border-color: #F38630;
+    border-radius: 20px;
+}
+.stuff {
+    background-color: #A7DBD8;
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto;
+    border: 10px double;
+    border-color: #F38630;
+    border-radius: 20px;
+    color: #FA6900;
+    line-height: 130%;
+}
 body {
     color: #FA6900;
     font-style: bold;
     font-size: 30px;
     font-family: 'Walter Turncoat', cursive;
     text-align: center;
+    background-image: url("http://delinene.com/wp-content/uploads/2013/01/baby-blue-gingham.jpg");
+    background-attachment: scroll;
 }
 h2 {
     color: #F38630;
@@ -45,9 +70,6 @@ h1 {
     background-color: #69D2E7;
     color: #F38630;
     text-shadow: 2px 2px 4px;
-}
-html {
-    background-color: #E0E4CC;
 }
 header {
     background-color: #A7DBD8;
@@ -87,7 +109,7 @@ header {
 .farts {
     background-color: #A7DBD8;
     padding: 20px;
-    width: 650px;
+    width: 400px;
     margin: 0 auto;
     margin-top: 30px;
     border: 8px double;
