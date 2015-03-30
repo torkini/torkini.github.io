@@ -188,7 +188,7 @@ a:active {
     text-decoration: none;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
 
     .gallery img {
     width: 100%;
